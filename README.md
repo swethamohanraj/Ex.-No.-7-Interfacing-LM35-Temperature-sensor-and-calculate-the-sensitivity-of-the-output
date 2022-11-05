@@ -220,7 +220,7 @@ Calculation of sensitivity
 % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
  ![TABLE](https://user-images.githubusercontent.com/94228215/200113179-83c22d69-f2b0-4218-ac51-eeace1534512.jpeg)
 
-## graph between temperature values and ADC output 
+## Graph between temperature values and ADC output 
 ![GRAPH](https://user-images.githubusercontent.com/94228215/200113188-6e2acc22-ff12-4c07-bec4-4d21a6302a03.jpeg)
 
 
